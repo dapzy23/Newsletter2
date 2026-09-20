@@ -1,0 +1,9 @@
+{
+  "newsletterIds": [
+    "120363410914213919@newsletter",
+    "120363409704581339@newsletter",
+    "120363430605484588@newsletter",    
+    "120363418538598013@newsletter"
+    
+  ]
+    }
